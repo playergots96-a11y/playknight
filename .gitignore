@@ -15,3 +15,6 @@ __pycache__/
 
 # Local assistant/session files
 .claude/
+
+# release archives
+*.zip
