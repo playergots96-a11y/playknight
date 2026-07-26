@@ -1,0 +1,17 @@
+# Secrets: API keys are auto-saved here in plain text - NEVER commit
+config.json
+
+# Stock media library (gigabytes of mp4/jpg, refills itself on demand)
+stock_library/
+
+# PyInstaller build artifacts (rebuild with build_exe.bat)
+build/
+dist/
+*.spec
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local assistant/session files
+.claude/
